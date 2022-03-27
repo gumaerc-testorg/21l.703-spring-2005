@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea4f393d-4d6e-85be-e260-e196e4cb5832
 resourcetype: Document
 title: "Robert Boyle\u2019s Sexuality"
 uid: 67a8a19e-9842-3d30-7b23-ab351991a8d3

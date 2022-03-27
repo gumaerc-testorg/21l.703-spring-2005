@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea4f393d-4d6e-85be-e260-e196e4cb5832
 resourcetype: Document
 title: 'From Nonsense to Sense: An Exploration of Creativity in the 17th Century '
 uid: e66c8325-aeff-fb1c-b6c2-77de4897fcce

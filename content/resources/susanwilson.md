@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea4f393d-4d6e-85be-e260-e196e4cb5832
 resourcetype: Document
 title: 17th-Century British Women Writers
 uid: c2b43a95-c852-1fab-eff8-841ae7ed8635

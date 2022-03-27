@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea4f393d-4d6e-85be-e260-e196e4cb5832
 resourcetype: Document
 title: "Brome\u2019s The Antipodes and Rubens\u2019s paintings: Illusionistic and\
   \ Self-Reflective Pieces of English Baroque Culture"

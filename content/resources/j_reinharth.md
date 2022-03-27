@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ea4f393d-4d6e-85be-e260-e196e4cb5832
 resourcetype: Document
 title: 'Take the Chance of Anger: A Study in Shifts'
 uid: 95172c74-25a7-0bcb-7930-ea311ba34988
