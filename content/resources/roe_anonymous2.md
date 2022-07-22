@@ -5,6 +5,7 @@ file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Robert Boyle\u2019s Sexuality"
 uid: 67a8a19e-9842-3d30-7b23-ab351991a8d3
 ---
 Sample paper courtesy of David Roe, a student in the course.
-

@@ -5,6 +5,7 @@ file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Take the Chance of Anger: A Study in Shifts'
 uid: 95172c74-25a7-0bcb-7930-ea311ba34988
 ---
 Sample paper courtesy of Jonathan Reinharth, a student in the course.
-

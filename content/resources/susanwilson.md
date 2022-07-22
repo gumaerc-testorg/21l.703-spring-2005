@@ -5,6 +5,7 @@ file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 17th-Century British Women Writers
 uid: c2b43a95-c852-1fab-eff8-841ae7ed8635
 ---
 Sample paper courtesy of Susan Wilson, a student in the course.
-

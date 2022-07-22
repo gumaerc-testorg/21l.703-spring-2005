@@ -5,6 +5,7 @@ file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spr
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Brome\u2019s The Antipodes and Rubens\u2019s paintings: Illusionistic an
 uid: bbd81ac0-ab4b-5a32-c42c-d39f8bb71a4e
 ---
 Sample paper by an anonymous student in the course.
-
