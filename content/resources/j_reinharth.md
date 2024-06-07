@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample paper courtesy of Jonathan Reinharth, a student in the course.
 file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/95172c7425a70bcb7930ea311ba34988_j_reinharth.pdf
+file_size: 97223
 file_type: application/pdf
 learning_resource_types:
 - Projects
