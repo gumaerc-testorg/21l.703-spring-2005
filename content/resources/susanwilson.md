@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample paper courtesy of Susan Wilson, a student in the course.
-file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/c2b43a95c8521fabeff8841ae7ed8635_susanwilson.pdf
+file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/c2b43a95c8521fabeff8841ae7ed8635_susanwilson.pdf
 file_size: 139251
 file_type: application/pdf
 learning_resource_types:

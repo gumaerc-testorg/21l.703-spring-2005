@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample paper courtesy of David Roe, a student in the course.
-file: /courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/e66c8325aefffb1cb6c277de4897fcce_roe_anonymous1.pdf
+file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-theater-and-science-in-a-time-of-war-spring-2005/e66c8325aefffb1cb6c277de4897fcce_roe_anonymous1.pdf
 file_size: 25076
 file_type: application/pdf
 learning_resource_types:
